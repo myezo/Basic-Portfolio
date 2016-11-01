@@ -1,0 +1,83 @@
+* {
+  box-sizing: border-box;
+}
+
+#container{
+	padding-top: 10px;
+	background-image: url('../images/paper_fibers.png');
+}
+
+#top-header{
+	border-bottom: 1px solid #cccccc;
+}
+
+#name{
+	float: left;
+	color: white;
+	font-size: 30px;
+	background: #4aaaa5;
+	font-weight: bold;
+	padding: 25px;
+	margin-left: 190px;
+}
+
+header ul {
+   list-style-type: none;
+   margin-left: 70%;
+   text-align: right;
+   padding: 32px;
+   margin-right: 190px;
+   width: 250px;
+}
+
+
+header ul li {
+   position: relative;
+   display: inline;
+   padding-right: 10px;
+}
+
+#about{
+	font-size: 30px;
+	color: #4aaaa5;
+	font-weight: bold;
+	clear: both;
+	overflow: auto;
+	padding: 25px;
+}
+
+#main-section{
+	width: 960px;
+	margin: 0 auto 0 auto;
+}
+
+#bio-img{
+	width: 200px;
+	height: 190px;
+}
+
+#side-bar{
+	width: 260px;
+}
+
+#connect{
+	font-size: 30px;
+	color: #4aaaa5;
+	font-weight: bold;
+	text-align: center;
+}
+
+#linked{
+	width: 80px;
+	height: 80px;
+}
+
+#github{
+	width: 80px;
+	height: 80px;
+}
+
+#facebook{
+	width: 80px;
+	height: 80px;
+}
